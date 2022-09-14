@@ -4,5 +4,7 @@
         <item>chars</item>
         <item>words</item>
     </string-array>
-    <string name="select_chars">Chars</string>
+    <string name="select_chars">chars</string>
+    <string name="button_label">COUNT</string>
+    <string name="input_label">Enter your text</string>
 </resources>
